@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380922273848",
+    "firebase_url": "https://waterelectric-15ddd.firebaseio.com",
+    "project_id": "waterelectric-15ddd",
+    "storage_bucket": "waterelectric-15ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380922273848:android:6dbc10c007a17685acc6cd",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.water_electric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380922273848-ukgbdev5c4c65m4cl7pptochpdgrmco4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.kku.cis.mobileapp.water_electric",
+            "certificate_hash": "786b472dcea87469e0b928b4f35e36a6a65241b5"
+          }
+        },
+        {
+          "client_id": "380922273848-37omhhkps66c1rs2dslc4e69te6tsgt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56V8HfbY7YMJtTyKHOkXlgCvSNdX_RVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380922273848-37omhhkps66c1rs2dslc4e69te6tsgt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
